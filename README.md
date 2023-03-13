@@ -34,19 +34,19 @@ Congratulations! You have successfully run a PHP file on your computer.
 
 <h1>To run on browser:</h1>
 <ol>
-    <li>Install PHP: You need to install PHP on your computer if you don't already have it. You can download PHP from the official website of PHP (https://www.php.net/downloads.php).</li>
+<li>Install PHP: You need to install PHP on your computer if you don't already have it. You can download PHP from the official website of PHP (https://www.php.net/downloads.php).</li>
     
-    <li>Create a PHP file: Create a new file with a .php extension, for example, index.php. This file will contain the PHP code you want to run.</li>
+<li>Create a PHP file: Create a new file with a .php extension, for example, index.php. This file will contain the PHP code you want to run.</li>
     
-    <li>Start a local server: To run a PHP file, you need to start a local server on your computer. Open a terminal/command prompt and navigate to the directory where your PHP file is located.</li>
+<li>Start a local server: To run a PHP file, you need to start a local server on your computer. Open a terminal/command prompt and navigate to the directory where your PHP file is located.</li>
     
-    <li>
+<li>
         Start the server: Once you're in the directory where your PHP file is located, run the following command to start the PHP server:
         <code>php -S localhost:8000</code>
         This command will start a local server on your computer at the address http://localhost:8000.
     </li>
     
-    <li>Open the file in the browser: Once the server is running, open your web browser and navigate to http://localhost:8000/index.php. This will open your PHP file in the browser, and the PHP code will be executed.</li>
+<li>Open the file in the browser: Once the server is running, open your web browser and navigate to http://localhost:8000/index.php. This will open your PHP file in the browser, and the PHP code will be executed.</li>
 </ol>
     That's it! You've successfully run a PHP file on your browser.
 
